@@ -1,0 +1,16 @@
+/* Universal styling */
+* {
+    outline: 1px dashed blue;
+}
+
+/* Hero picture */
+.img-fluid {
+    height: 400px;
+    background-size: cover;
+}
+
+/* Carousel */
+#carousel img {
+    max-height: 45%;
+    width: 88%;
+}
